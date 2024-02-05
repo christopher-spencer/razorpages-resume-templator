@@ -18,12 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/christopherspencer/Source/Repos/razorpages-resume-templator
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/AboutMe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWJvdXRNZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Shared/_Links.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MaW5rcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/Shared/_ValidationScriptsPartial.cshtml]
@@ -32,4 +52,8 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/christopherspencer/Source/Repos/razorpages-resume-templator/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

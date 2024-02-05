@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace razorpages_resume_templator.Pages;
+namespace ResumeTemplater.Pages;
 
 public class PrivacyModel : PageModel
 {

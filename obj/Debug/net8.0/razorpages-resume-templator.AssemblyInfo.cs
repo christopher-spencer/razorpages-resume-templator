@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("razorpages-resume-templator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ae498715ce2e7066879c4d44393363a758040c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96fedaba0e60c0d863d988072887b48452778b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("razorpages-resume-templator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("razorpages-resume-templator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
