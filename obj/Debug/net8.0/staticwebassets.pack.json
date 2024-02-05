@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/net8.0/scopedcss/projectbundle/razorpages-resume-templator.bundle.scp.css",
-      "PackagePath": "staticwebassets/razorpages-resume-templator.bundle.scp.css"
-    },
-    {
       "Id": "/Users/christopherspencer/Source/Repos/razorpages-resume-templator/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

@@ -1,0 +1,8 @@
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.AssemblyInfoInputs.cache
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.AssemblyInfo.cs
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.csproj.CoreCompileInputs.cache
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.MvcApplicationPartsAssemblyInfo.cache
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.RazorAssemblyInfo.cache
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.RazorAssemblyInfo.cs
+/Users/christopherspencer/Source/Repos/razorpages-resume-templator/obj/Debug/netcoreapp3.1/razorpages-resume-templator.sourcelink.json
