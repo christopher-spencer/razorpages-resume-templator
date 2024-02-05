@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/razorpages-resume-templator.props" />
+</Project>
